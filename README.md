@@ -22,7 +22,7 @@ O **UCIA Chatbot** é um assistente virtual de nutrição desenvolvido para ajud
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/UCIA-CHATBOT.git
+   git clone https://github.com/Grimmnacht/UCIA-CHATBOT.git
    cd UCIA-CHATBOT
 2. Instale as dependências:
   pip install -r requirements.txt
